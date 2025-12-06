@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:healthmate/features/health_records/common/custom_app_bar.dart';
-import 'package:healthmate/features/health_records/common/widgets/custom_text.dart';
 import 'package:healthmate/theme/app_theme.dart';
 import 'package:provider/provider.dart';
 import 'package:intl/intl.dart';
